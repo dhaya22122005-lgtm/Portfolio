@@ -90,7 +90,8 @@ export default function Hero(){
 
             {/* Secondary Button */}
             <a 
-              href="/Dhayanandh_Resume.pdf" 
+              href="https://drive.google.com/uc?export=download&id=1YJvEGomt7TrWT7mJhM2osOCHMczAeaIE
+" 
               download="Dhayanandh_Resume.pdf"
               className="hero-button hero-button-2 hero-btn-secondary inline-flex items-center gap-2 px-6 py-3 rounded-lg text-gray-200 font-semibold border-2 border-gradient-to-r from-blue-500 to-purple-500 transition-all duration-300"
               style={{

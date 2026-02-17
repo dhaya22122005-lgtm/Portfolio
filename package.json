@@ -2,10 +2,14 @@
   "name": "dhayanandh-portfolio",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://dhaya22122005-lgtm.github.io/Portfolio",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+     "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^18.2.0",
@@ -14,6 +18,7 @@
   "devDependencies": {
     "@vitejs/plugin-react": "^5.1.4",
     "autoprefixer": "^10.4.14",
+    "gh-pages": "^6.3.0",
     "postcss": "^8.4.23",
     "tailwindcss": "^3.4.8",
     "vite": "^5.0.0"
