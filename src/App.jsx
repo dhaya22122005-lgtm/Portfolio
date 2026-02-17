@@ -24,9 +24,6 @@ export default function App(){
         <section id="skills" className="pt-20">
           <Skills />
         </section>
-        <section id="projects" className="pt-20">
-          <Projects />
-        </section>
         <section id="achievements" className="pt-20">
           <Achievements />
         </section>

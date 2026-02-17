@@ -23,14 +23,13 @@ export default function Footer(){
             <div className="flex justify-center gap-8">
               <a href="#about" className="footer-link-minimal text-sm">About</a>
               <a href="#skills" className="footer-link-minimal text-sm">Skills</a>
-              <a href="#projects" className="footer-link-minimal text-sm">Projects</a>
               <a href="#contact" className="footer-link-minimal text-sm">Contact</a>
             </div>
 
             {/* RIGHT: Social Icons */}
             <div className="flex justify-center md:justify-end gap-5">
               <a 
-                href="https://github.com" 
+                href="https://github.com/dhaya22122005-lgtm" 
                 target="_blank" 
                 rel="noreferrer"
                 className="footer-social-minimal"
@@ -39,7 +38,7 @@ export default function Footer(){
                 💻
               </a>
               <a 
-                href="https://linkedin.com" 
+                href="https://www.linkedin.com/in/dhayanandh-a-2954a2290" 
                 target="_blank" 
                 rel="noreferrer"
                 className="footer-social-minimal"

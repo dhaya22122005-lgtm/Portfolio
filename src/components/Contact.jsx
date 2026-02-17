@@ -19,9 +19,9 @@ export default function Contact(){
           <p className="mt-2 text-gray-300">Location: India</p>
 
           <div className="mt-4 flex flex-wrap gap-3">
-            <a href="mailto:dhaya22122005@gmail.com" className="inline-flex items-center gap-2 px-4 py-2 bg-gradient-to-r from-[#3b82f6] to-[#7c3aed] rounded-md text-white hover:scale-105 transition">📧 Email Me</a>
-            <a href="#" className="inline-flex items-center gap-2 px-4 py-2 border border-gray-700 rounded-md text-gray-200 hover:scale-105 transition">🧑‍💻 GitHub</a>
-            <a href="#" className="inline-flex items-center gap-2 px-4 py-2 border border-gray-700 rounded-md text-gray-200 hover:scale-105 transition">🔗 LinkedIn</a>
+            <a target="_blank"  href="mailto:dhaya22122005@gmail.com" className="inline-flex items-center gap-2 px-4 py-2 bg-gradient-to-r from-[#3b82f6] to-[#7c3aed] rounded-md text-white hover:scale-105 transition">📧 Email Me</a>
+            <a target="_blank"  href="https://github.com/dhaya22122005-lgtm" className="inline-flex items-center gap-2 px-4 py-2 border border-gray-700 rounded-md text-gray-200 hover:scale-105 transition">🧑‍💻 GitHub</a>
+            <a target="_blank"  href="https://www.linkedin.com/in/dhayanandh-a-2954a2290" className="inline-flex items-center gap-2 px-4 py-2 border border-gray-700 rounded-md text-gray-200 hover:scale-105 transition">🔗 LinkedIn</a>
           </div>
         </div>
 
